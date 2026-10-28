@@ -48,8 +48,8 @@ Desenvolvedor em formação e estudante de **Análise e Desenvolvimento de Siste
 
 ### 📌 Projetos em Destaque
 
-- 🌐 **[Nome do Projeto 1](https://github.com/SEU-USUARIO/nome-do-repositorio)** — Landing page responsiva desenvolvida para conversão de clientes locais com HTML, CSS e JS.
-- 🐍 **[Nome do Projeto 2](https://github.com/SEU-USUARIO/nome-do-repositorio)** — Script de automação e lógica desenvolvido em Python.
+- 🌐 **[Sibels Elegance](https://github.com/gustavo-lima01/projeto-erp-sibels-elegance)** — Landing page responsiva desenvolvida para conversão de clientes locais com HTML, CSS e JS.
+- 🐍 **[Nome do Projeto 2](https://github.com/gustavo-lima01/gustavo-lima01)** — Script de automação e lógica desenvolvido em Python.
 
 ---
 
