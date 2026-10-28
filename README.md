@@ -1,16 +1,60 @@
-## Hi there 👋
+# Olá! Eu sou o Gustavo Ferreira Lima 👋
 
-<!--
-**gustavo-lima01/gustavo-lima01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em formação e estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **UNICID**. Focado na construção de sites, interfaces web modernas e soluções digitais ágeis voltadas para pequenos e médios negócios.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na UNICID.
+- 💻 Desenvolvendo projetos e soluções web utilizando **HTML5, CSS3, JavaScript** e **Python**.
+- ⚡ Focado em criação de sites responsivos, *vibe coding*, manipulação de DOM e arquitetura visual de projetos.
+- 🥋 Ex-atleta de alto rendimento em artes marciais — aplicando a mesma disciplina, constância e foco do esporte na resolução de problemas através do código.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+</div>
+
+<br>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 Estatísticas no GitHub
+
+<div align="center">
+  <a href="https://github.com/SEU-USUARIO">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=6&theme=tokyonight"/>
+  </a>
+</div>
+
+---
+
+### 📌 Projetos em Destaque
+
+- 🌐 **[Nome do Projeto 1](https://github.com/SEU-USUARIO/nome-do-repositorio)** — Landing page responsiva desenvolvida para conversão de clientes locais com HTML, CSS e JS.
+- 🐍 **[Nome do Projeto 2](https://github.com/SEU-USUARIO/nome-do-repositorio)** — Script de automação e lógica desenvolvido em Python.
+
+---
+
+### 📫 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-ferreira-b83b8b443?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gureserva52@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5513996592017)
