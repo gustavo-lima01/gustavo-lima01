@@ -39,7 +39,7 @@ Desenvolvedor em formação e estudante de **Análise e Desenvolvimento de Siste
 
 <div align="center">
   <a href="https://github.com/gustavo-lima01">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gustavo-lima01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-lima01&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
 </div>
